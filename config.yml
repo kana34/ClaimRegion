@@ -1,0 +1,41 @@
+groups:
+  vagabon:
+    bloc: 1000
+    terrain: 1
+    prix: 0
+    prixDelete: 1000
+  visiteur:
+    bloc: 2000
+    terrain: 2
+    prix: 2000
+    prixDelete: 4000
+  paysan:
+    bloc: 2000
+    terrain: 2
+    prix: 2000
+    prixDelete: 1000
+  noble:
+    bloc: 2500
+    terrain: 3
+    prix: 2000
+    prixDelete: 1000
+  seigneur:
+    bloc: 3000
+    terrain: 4
+    prix: 2000
+    prixDelete: 1000
+  empereur:
+    bloc: 3500
+    terrain: 5
+    prix: 2000
+    prixDelete: 1000
+  roi:
+    bloc: 20000
+    terrain: 20
+    prix: 2000
+    prixDelete: 1000
+  admin:
+    bloc: 20000000
+    terrain: 300
+    prix: 0
+    prixDelete: 0

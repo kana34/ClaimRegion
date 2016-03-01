@@ -1,0 +1,10 @@
+name: ClaimRegion
+main: kana.ClaimRegion.ClaimRegion
+author: kana34
+website: http://www.cubicraft.ovh
+description: Permet de gerer les claims
+version: 0.3
+depends: [Vault, Worldguard, Worldedit]
+commands:
+    claim:
+        description: Tapez /claim help.
